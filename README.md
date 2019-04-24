@@ -1,3 +1,4 @@
-## UMN Sketchnoters has moved!
+## UMN Sketchnoters
+## has moved!
 
-Please visit us at https://z.umn.edu/umnsketchnoters.
+Please visit us at [z.umn.edu/umnsketchnoters](https://z.umn.edu/umnsketchnoters).
